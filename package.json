@@ -1,0 +1,22 @@
+{
+  "name": "queueprovider",
+  "version": "1.0.0",
+  "description": "This is a queue provider package created for adonis js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/*.spec.js"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "Harikrushna V. Adiecha <adiechahari@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "japa": "^3.0.1",
+    "japa-cli": "^1.0.1"
+  },
+  "dependencies": {
+    "@adonisjs/fold": "^4.0.9",
+    "bee-queue": "^1.2.2"
+  }
+}
