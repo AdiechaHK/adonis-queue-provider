@@ -9,6 +9,10 @@
   "keywords": [
     "queue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adiechahk/adonis-queue-provider.git"
+  },
   "author": "Harikrushna V. Adiecha <adiechahari@gmail.com>",
   "license": "MIT",
   "devDependencies": {
