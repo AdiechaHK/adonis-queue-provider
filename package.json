@@ -1,5 +1,5 @@
 {
-  "name": "queueprovider",
+  "name": "adonis-queue-provider",
   "version": "1.0.0",
   "description": "This is a queue provider package created for adonis js",
   "main": "src/index.js",
